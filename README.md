@@ -1,31 +1,29 @@
-# German David Rojas Lam
+# Germán David Rojas Lam
 
-**AI Engineer · Full-Stack Developer · Physics Student**
+**Backend Python Engineer building AI systems and automation products.**
 
-I build production AI systems from first principles. My background in physics gives me rigorous analytical foundations; my code makes them real.
+I design and build production-oriented software: APIs, AI pipelines, computer vision systems and intelligent automation tools. Comfortable owning projects end-to-end, from architecture and implementation to deployment and evaluation.
 
-## What I do
+## Core Areas
 
-- **LLM Systems**: Tokenization, fine-tuning, RAG, and agent architectures — implemented from scratch, not imported
-- **AI Agents**: State-machine agents with MCP tooling, human-in-the-loop, and error recovery
-- **Full-Stack**: React/TypeScript frontends, FastAPI/PostgreSQL backends, deployed and measured
-- **Computer Vision**: YOLO fine-tuning, depth estimation, 3D reconstruction
+* **Backend Engineering:** FastAPI, PostgreSQL, REST APIs, distributed systems
+* **Applied AI:** RAG pipelines, LLM orchestration, embeddings, LangGraph
+* **Computer Vision:** YOLO deployment, ONNX optimization, video analytics
+* **Full-Stack Prototyping:** React, TypeScript, Cloudflare deployments
 
-## Production-grade systems
+## Selected Work
 
-*(rebuilding portfolio — see pinned repositories)*
-
-## Research
-
-- **Underwater pollution detection**: YOLOv8 fine-tuned on 300+ annotated images, depth estimation via geometric optics, 3D seabed modeling
-- **Thermodynamic duality in neural networks**: MLPs trained to emulate Langevin dynamics, effective temperature from weight fluctuations
+* Forensic video analysis system processing 300+ hours of CCTV footage on CPU-only hardware
+* Payment processing microservice architecture with FastAPI, Node.js and PostgreSQL
+* Production RAG pipeline with retrieval evaluation and benchmarking
+* Computer vision pipeline for underwater pollution detection and geospatial analysis
 
 ## Stack
 
-Python · PyTorch · FastAPI · PostgreSQL · React · TypeScript · LangGraph · Ollama
+Python · FastAPI · PostgreSQL · PyTorch · React · TypeScript · LangGraph · Docker · Linux
 
 ## Contact
 
-Havana, Cuba · Full-time remote · Spanish (native) · English (B2, technical)
+Havana, Cuba · Remote-friendly · Spanish (native) · English (B2)
 
-[Email] · [LinkedIn] · [Blog — coming soon]
+Email · LinkedIn · Portfolio (coming soon)
