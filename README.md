@@ -26,4 +26,6 @@ Python · FastAPI · PostgreSQL · PyTorch · React · TypeScript · LangGraph �
 
 Havana, Cuba · Remote-friendly · Spanish (native) · English (B2)
 
-Email · LinkedIn · Portfolio (coming soon)
+Email: gdavid.rojaslam@gmail.com
+LinkedIn: https://www.linkedin.com/in/german-rojas-lam-2050b53b4/
+Portfolio (coming soon)
